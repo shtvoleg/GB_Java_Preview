@@ -12,7 +12,6 @@ boolean containsValue(Integer v).
 
 Обучающийся: ШИТОВ Олег Владимирович, "Разработчик Python", поток 4544, будни, утро.  14.06.2023
  */
-
 package org.example;
 
 public class Main {
