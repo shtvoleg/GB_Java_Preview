@@ -28,6 +28,7 @@ public class Main {
             size = 0;
         }
 
+
         private int hash(Integer key) {
             return key % capacity;
         }
